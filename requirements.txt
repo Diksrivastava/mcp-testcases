@@ -1,1 +1,15 @@
 mcp>=0.1.0
+
+> Suppose we have the 5000 test cases present for us. I want to develop a local MCP by using the power of Fast MCP, 
+where any LLM can connect with this MCP and 
+it can access the 5000 test cases which are present.
+They can search these test cases by their priority, by their metadata also.Data      
+please work on it and create an MCP server so that we can connect with this locally.
+ And when you are done, also open the MCP inspector
+  so that I can see the MCP is working.
+### Prompt 2 — share connection details
+> Please share the MCP information so that I can connect with another LLM.
+### Prompt 3 — add a create/append tool
+> please create one tool where I can also append or create a new test case in the end.
+### Prompt 4 — this file
+> can you please put into Chapter 12, MCP creation, whatever the prompt which I have given you to create this MCP? What was the objective, and which data have we taken, and what is the prompt that we have used?
